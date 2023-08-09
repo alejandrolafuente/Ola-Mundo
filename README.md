@@ -4,8 +4,10 @@
  Repositório criado para exemplo karma
 
 Porque nao estah  alteracoes
-add esta agora
+
+confusao
 
 teoricamente esta linha eh do terceiro commit
 
 sera que vai
+bebi
